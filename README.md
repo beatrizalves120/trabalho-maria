@@ -1,4 +1,7 @@
-Este repositório contém três programas desenvolvidos em linguagem C, cada um com uma finalidade específica: geração de tabuadas, realização de operações aritméticas básicas e cálculo de IMC (Índice de Massa Corporal).
+Maria Beatriz
+
+
+Este repositório tem três programas desenvolvidos em linguagem C, cada um com uma finalidade específica: geração de tabuadas, realização de operações aritméticas básicas e cálculo de IMC (Índice de Massa Corporal).
 
 1. Tabuada 
 
