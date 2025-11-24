@@ -4,6 +4,7 @@ Maria Beatriz
 Este repositório tem três programas desenvolvidos em linguagem C, cada um com uma finalidade específica: geração de tabuadas, realização de operações aritméticas básicas e cálculo de IMC (Índice de Massa Corporal).
 
 1. Tabuada 
+<img width="584" height="557" alt="Captura de tela 2025-11-24 111300" src="https://github.com/user-attachments/assets/c7654ec3-a659-4d88-82bb-7be00d7b6f15" />
 
 Objetivo
 
@@ -22,6 +23,7 @@ Emprego da estrutura de repetição for para gerar as linhas da tabuada.
 Saída formatada utilizando printf.
 
 2. Calculadora Aritmética
+<img width="529" height="458" alt="Captura de tela 2025-11-24 111058" src="https://github.com/user-attachments/assets/1496dd05-6d86-42ab-8b76-43ec496bf237" />
 
 Objetivo
 
