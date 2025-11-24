@@ -42,7 +42,9 @@ Validação de divisão por zero.
 
 Seleção de operações com a instrução switch.
 
-3. Calculadora de IMC 
+3. Calculadora de IMC
+<img width="529" height="744" alt="Captura de tela 2025-11-24 110746" src="https://github.com/user-attachments/assets/8d37afb4-9f56-4761-8c6d-5cc51efddfb8" />
+
 
 Objetivo
 
